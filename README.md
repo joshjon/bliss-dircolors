@@ -22,7 +22,7 @@
 
 Bliss dircolors is a theme for the ls command in macOS and Linux, and is made for use with dark theme terminals supporting 256 colors e.g. iTerm2.
 
-Bliss inspires calmness and tranquil, whilst maintaining readability and visual distinction between elements. It is designed with a family of colors specifically having high value (lightness) and low to intermediate saturation. As a result, the palette's tonal properties invoke a softer look that is easier on your eyes.
+Bliss inspires calmness and tranquil, whilst maintaining readability and visual distinction between elements. It is specifically designed with colors of high value (lightness) and low to intermediate saturation. As a result, the palette's tonal properties invoke a softer look that is easier on your eyes.
 
 ### Setting the Mood
 Bliss looks even better with the following terminal setup:
@@ -61,7 +61,7 @@ Bliss has similarities to most [default ls colors](https://askubuntu.com/questio
 
 ### Installing GNU coreutils (required for macOS only)
 
-Bliss dircolors is configured using GNU coreutils; however, macOS does not use GNU by default. To use dircolors we are going to need to install GNU coreutils. Steps on how to achieve this are outlined below.
+Bliss dircolors is configured using GNU coreutils; however, macOS does not use GNU by default. To use dircolors we are going to need to install GNU coreutils.
 
 1. Install [Homebrew](https://brew.sh/), a free and open-source package manager that simplifies the installation of software on macOS.
 
