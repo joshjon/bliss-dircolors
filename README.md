@@ -90,7 +90,7 @@ Bliss dircolors is configured using GNU coreutils; however, macOS does not use G
 
 ### Zsh Additional Install Information
 
-If you are using Z shell (Zsh), you may also find that tab completion does not use dircolors when displaying directories. This can make some directories with permissions very difficult to read e.g. other-writable (o+w) directories as seen in the screen shot below.
+If you are using Z shell (Zsh), you may also find that tab completion does not use dircolors when displaying directories. This can make some directories with permissions very difficult to read e.g. other-writable (o+w) directories as seen in the screenshot below.
 ![session](https://raw.githubusercontent.com/joshjon/bliss-docs/master/bliss-dircolors/images/zsh-issue.png)
 To enable Bliss dircolors for Zsh tab completion simply put the following line in your .zshrc file:
 
@@ -137,4 +137,4 @@ GitHub: https://github.com/joshjon
 
 * [Linux Man Pages:](https://www.systutorials.com/docs/linux/man/5-dir_colors/) dir_colors: configuration file for dircolors
 * [Dennis Conrad's Blog:](http://www.conrad.id.au/2013/07/making-mac-os-x-usable-part-1-terminal.html) Making Mac OS X Usable - Part 1 - The Terminal
-* [256 Colors:](https://raw.githubusercontent.com/joshjon/bliss-docs/master/bliss-dircolors/images/zsh-fix.png) A reference for all 256 colors
+* [256 Colors:](https://raw.githubusercontent.com/joshjon/bliss-docs/master/bliss-dircolors/images/256-colors.png) A reference for all 256 colors
